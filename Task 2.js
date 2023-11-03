@@ -53,3 +53,4 @@ let Palindrome = (arr, n) =>
     }
     return true;
 }
+//all output is achieved
